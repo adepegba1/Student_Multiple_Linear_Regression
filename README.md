@@ -100,4 +100,4 @@ While SAT reflects academic aptitude, consistent class attendance significantly 
 ## 
 - Author: David Adepegba
 - Project: Week 2 of Machine Learning Journey — Multiple Linear Regression
-- Dataset: [Student_data.csv]('https://github.com/adepegba1/Dataset/blob/main/Student_data.csv')
+- Dataset: <a href='https://github.com/adepegba1/Dataset/blob/main/Student_data.csv'>Student_Data</a>
