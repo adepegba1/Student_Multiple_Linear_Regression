@@ -32,6 +32,8 @@ Correlation analysis revealed:
 
 This suggests that both SAT and Attendance are valuable predictors of GPA.
 
+---
+
 ## 3️⃣ Findings
 ### 🧮 Model Building
 
@@ -61,6 +63,8 @@ Attending class regularly adds ~0.22 GPA points on average.
 | **RMSE** | 0.171     | 0.171    | Typical deviation ≈ 0.17 GPA points        |
 | **R²**   | 0.553     | 0.576    | Explains ~55–58% of GPA variation          |
 
+---
+
 
 ## 4️⃣ Interpretation & Insights
 ### 🔍 Key Insights
@@ -79,6 +83,8 @@ The model captures 55–58% of GPA variance — reasonable for a simple academic
 | Grace   | 1700 | 0          | 3.05          |
 - Even with a higher SAT, Grace’s lower attendance slightly reduced her predicted GPA — showing that consistency matters!
 
+---
+
 ## 5️⃣ Recommendations
 
 Encourage consistent attendance to boost academic performance.
@@ -87,17 +93,19 @@ Use SAT + Attendance analytics to identify at-risk students early.
 
 Introduce academic mentoring programs for students with low attendance but strong SAT potential.
 
+---
 ## 6️⃣ Conclusion
 
 This analysis demonstrates that a simple Multiple Linear Regression model can effectively predict GPA using SAT scores and attendance rates.
 While SAT reflects academic aptitude, consistent class attendance significantly enhances learning outcomes — reinforcing the importance of engagement alongside intelligence.
 
+---
 ## 📘 Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Scikit-learn
 - Jupyter Notebook
 
-## 
+---
 - Author: David Adepegba
 - Project: Week 2 of Machine Learning Journey — Multiple Linear Regression
 - Dataset: <a href='https://github.com/adepegba1/Dataset/blob/main/Student_data.csv'>Student_Data</a>
